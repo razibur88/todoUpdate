@@ -10,7 +10,6 @@ const Home = () => {
 
   let handleChange = (e) =>{
     setText(e.target.value)
-    
   }
 
   let handleSubmit = () =>{
